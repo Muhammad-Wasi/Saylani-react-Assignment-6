@@ -1,0 +1,40 @@
+.App {
+  text-align: start;
+  margin: 0px 50px;
+}
+.App h2{
+  margin: 5px 0px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgb(2, 48, 48);
+  text-shadow: 1px 1px 1px darkcyan;
+}
+.App h3{
+  margin: 5px 0px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
+.App button{
+  margin-bottom: 8px;
+}
+.KidDiv{
+  padding: 0px 0px 0px 20px;
+  border: 4px solid rgb(1, 51, 51);
+  border-radius: 8px;
+
+}
+.TeacherDiv{
+  padding: 0px 0px 0px 20px;
+
+  border: 4px solid rgb(1, 51, 51);
+  border-radius: 8px;
+
+}
+.JudgesDiv{
+  padding: 0px 0px 0px 20px;
+
+  border: 4px solid rgb(1, 51, 51);
+  border-radius: 8px;
+}
+/* .App div h2 {
+  margin-left: 10px;
+} */
